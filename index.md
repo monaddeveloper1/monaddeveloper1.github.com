@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Monad Systems Blog!
-tagline: Supporting tagline
+title: Monad Systems 
+tagline: 
 ---
 {% include JB/setup %}
-
-
-    
 
 <ul class="posts">
   {% for post in site.posts %}

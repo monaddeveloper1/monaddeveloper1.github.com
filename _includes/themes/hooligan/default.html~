@@ -112,7 +112,7 @@
 
       <footer>
         <p>&copy; {{ site.time | date: '%Y' }} 
-           <a href="http://monadsystems.com" target="_blank" title="The Definitive Jekyll Blogging Framework">{{ site.author.name }}</a>
+           <a href="http://www.monadsystems.com" target="_blank" title="The Definitive Jekyll Blogging Framework">{{ site.author.name }}</a>
          
         </p>
       </footer>

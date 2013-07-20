@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Monad Systems
 tagline: Site Tagline
 author :
   name : Monad Systems
   email : info@monadsystems.com
   github : monaddeveloper1
   twitter : Monadsystems
-  feedburner : feedname
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 

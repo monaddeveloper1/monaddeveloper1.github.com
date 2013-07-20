@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monad Systems 
+title: Home 
 tagline: 
 ---
 {% include JB/setup %}

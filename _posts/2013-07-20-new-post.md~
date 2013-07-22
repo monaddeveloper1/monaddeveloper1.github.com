@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "new post"
+title: "Website Launch"
 description: ""
-category: 
-tags: []
+category: Introduction
+tags: [Launch, Website]
 ---
 {% include JB/setup %}

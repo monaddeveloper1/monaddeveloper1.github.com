@@ -7,7 +7,8 @@ tags: [Launch, Website]
 ---
 Hello World!
 
+
+{% include JB/setup %}
 This is just a sample post.
 
-dsdsds
-{% include JB/setup %}
+

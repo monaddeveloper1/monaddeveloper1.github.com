@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Website Launch"
-description: ""
+description: "No description"
 category: Introduction
 tags: [Launch, Website]
 ---
+Hello World!
 
+This is just a sample post.
 dsdsds
 {% include JB/setup %}

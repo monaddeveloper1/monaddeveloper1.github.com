@@ -11,4 +11,4 @@ It is very common to find a manager hiring junior software developer to reduce t
 
 Junior develpers take more time to finish the work and someone  needs to closely review their work which demands some time from other developers. Their skills can be polished by regular training session but any such training is not free of cost because either you have to hire external trainer or dedicate some time of senior developer from within team.
 
-Generally, senior developers are well skilled to finish their work on time and their work need less review. Their code quality is better and maintainable for long time. They are  two or three times more productive than any peer junior developers. If we calculate logically then is not very hard to find that actually senior developers are more cost effective.
+Generally, senior developers are well skilled to finish their work on time and their work need less review. Their code quality is better and maintainable for long time. They are  two or three times more productive than their peer junior developers. If we calculate logically then is not very hard to find that actually senior developers are more cost effective.

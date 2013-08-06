@@ -23,3 +23,6 @@ Multiple message filter can be grouped into filter tables (derived from Filter t
 Problem 2 : Among all the services we had installed on application server , one was getting blocked by too many requests. This was serious scalability issue.
  
 Solution:  We defined custom message filter class which was routing message with same content to multiple instance of same service in round robin fashion. This is kind of poor man's load balancer but it has been extremely helpful  in achieving  scalability.
+
+Next time it will be all about .NET code on this topic till then ...
+

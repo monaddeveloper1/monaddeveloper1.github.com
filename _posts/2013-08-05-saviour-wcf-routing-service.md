@@ -9,7 +9,7 @@ tags: [.NET, WCF, Routing]
 
 ## Overview
 
-WCF in .NET had introduced Routing service.  In our past experience it has been saviour for business. Routing service does exactly what it sounds like "Routing".  Quintessentially  it routes message from one endpoint to other. I am not going to describe Routing service  in this blog because you can find more details on [MSDN] (http://msdn.microsoft.com/en-us/library/ee517421(v=vs.100).aspx) website. I am going to describe two scenarios where we had used "Routing Service" in production environment.
+WCF in .NET had introduced Routing service.  In our past experience it has been saviour for business. Routing service does exactly what it sounds like "Routing".  Quintessentially  it routes message from one endpoint to other. I am not going to describe Routing service  in this blog because you can find more details on [MSDN] (http://msdn.microsoft.com/en-us/library/ee517421) website. I am going to describe two scenarios where we had used "Routing Service" in production environment.
 
 ## Scenario 1
 

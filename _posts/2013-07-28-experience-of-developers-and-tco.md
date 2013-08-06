@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experience of Developers and TCO"
-description: "P"
+description: "Philosphy"
 category: Philosphy
 tags: [Cost, Developers, Quality]
 

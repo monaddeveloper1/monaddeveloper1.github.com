@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saviour WCF Routing service"
-description: "W"
+description: "WCF"
 category: WCF
 tags: [.NET, WCF, Routing]
 

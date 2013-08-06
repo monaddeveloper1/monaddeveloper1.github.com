@@ -7,10 +7,8 @@ tags: [Launch, Website, Introduction]
 ---
 {% include JB/setup %}
 Hello World!
-
-
-
 Welcome to world of "Monad Systems". 
+
 
 ## Overview
 

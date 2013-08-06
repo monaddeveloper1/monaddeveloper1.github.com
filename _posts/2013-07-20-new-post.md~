@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Introduction"
-description: ""
+description: "I		"
 category: Introduction
-tags: [Launch, Website]
+tags: [Launch, Website, Introduction]
 ---
+{% include JB/setup %}
 Hello World!
 
 
-{% include JB/setup %}
 
 Welcome to world of "Monad Systems". 
 

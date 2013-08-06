@@ -1,15 +1,31 @@
 ---
 layout: page
-title: Monad Systems 
+title: Home 
 tagline: 
 ---
 {% include JB/setup %}
+---
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+
+<table class="posts">
+   <!-- Get 7 most recent entries by date (asc) -->
+   {% for post in site.posts limit:5 offset:0 %}
+   <tr>
+      <th align="left" style="color:white">{{ post.date | date: "%A , %B %d, %Y" }} </th>
+   </tr>
+   <tr>
+      <td>
+	<span style="color:white"> {{ post.title }} </span>
+         <p>{{ post.excerpt }}
+	 	<a href="{{ BASE_PATH }}{{ post.url }}"> More... </a>				
+	 </p>
+	<br/>
+	<hr/>
+      </td>
+   </tr>
+   {% endfor %} 
+</table>
+
 
 
 
